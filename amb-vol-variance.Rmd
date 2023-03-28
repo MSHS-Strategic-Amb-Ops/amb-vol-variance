@@ -552,7 +552,7 @@ knitr::include_graphics("Mount_Sinai_Logo_H.png")
 ```
 
 
-# Ambulatory No Show Report
+# Ambulatory Volume Variance Report
 *Report run date: `r report_run_date`*<br/>
 *Report date range: `r start_date` to `r end_date`*<br/>
 *Excludes Rad Onc and Radiology data*<br/>
